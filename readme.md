@@ -26,6 +26,25 @@
 - Søk til å få matretter
 - Få instruksjoner og ingredienser
 
+## Utfordringer
+- Feil med ekstern fil 
+
+## Løsning
+- Slettet unødvendig innhold
+- Spurt eksterne kilder
+
+## Andre ressurs
+- KI
+- Stack overflow
+- W3School
+
+## Usikkerhet
+- CSS elementer
+- Importering av eksterne filer
+
+## Samarbeidet med
+- GitHub [RettLaks](https://github.com/RettLaks)
+
 ## Contact
 - GitHub [Ande-Glitch](https://github.com/Ande-glitch)
 - Epost [And Nguyen](mailto:andynuwen@gmail.com)
